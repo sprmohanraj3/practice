@@ -1,9 +1,15 @@
 asdfghjklqwertyuiopxcvbnm,
 
 agowdjojeoigjow
+<<<<<<< HEAD
 asdfghj
 
 
 
 asdfghjk
 qwertyui
+=======
+asdfgh
+asdfghjk
+asdfghjk
+>>>>>>> e73da4f09f21ebd02b4276328886eb38ae85b8f6
